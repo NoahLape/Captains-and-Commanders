@@ -9,6 +9,7 @@ void draw(){
   background(255);
   rect(1200, 1000, 500, 400);
   ellipse(1450, 1200, 250, 200);
+  rect(120, 100, 50, 40);
 }
   //poo poo brains
   
